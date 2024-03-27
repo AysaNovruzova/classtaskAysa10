@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\ClassTaskAysaNovruz\ClassTaskAysaNovruz\obj\Debug\ClassTaskAysaNovruz.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ClassTaskAysaNovruz\ClassTaskAysaNovruz\obj\Debug\ClassTaskAysaNovruz.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ClassTaskAysaNovruz\ClassTaskAysaNovruz\bin\Debug\ClassTaskAysaNovruz.exe.config
+C:\Users\HP\Desktop\ClassTaskAysaNovruz\ClassTaskAysaNovruz\bin\Debug\ClassTaskAysaNovruz.exe
+C:\Users\HP\Desktop\ClassTaskAysaNovruz\ClassTaskAysaNovruz\bin\Debug\ClassTaskAysaNovruz.pdb
+C:\Users\HP\Desktop\ClassTaskAysaNovruz\ClassTaskAysaNovruz\obj\Debug\ClassTaskAysaNovruz.exe
+C:\Users\HP\Desktop\ClassTaskAysaNovruz\ClassTaskAysaNovruz\obj\Debug\ClassTaskAysaNovruz.pdb
